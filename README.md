@@ -4,7 +4,7 @@
 #### PAI / Personal AI Infrastructure
 - [PAI](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Claude code based agent framework 
 - [Shaka](https://github.com/jgmontoya/shaka/) - personal agent framework for Claude Code and Opencode, written in bun 
-
+- [ren](https://github.com/erskingardner/ren) - Personal AI infrastructure for Opencode
 
 ## Real world 
 #### 3D printing 
