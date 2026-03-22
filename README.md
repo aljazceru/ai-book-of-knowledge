@@ -15,4 +15,4 @@
 - [ProxmoxMCP-Plus](https://github.com/autonomica-xyz/ProxmoxMCP-Plus) - expanded proxmox mcp for AI control of your proxmox infrastructure
 
 ## Research 
-- [autoresearch](https://github.com/karpathy/autoresearch) 
+- [autoresearch](https://github.com/karpathy/autoresearch) -  AI agents running research on single-GPU nanochat training automatically 
