@@ -6,6 +6,9 @@
 - [Shaka](https://github.com/jgmontoya/shaka/) - personal agent framework for Claude Code and Opencode, written in bun 
 - [ren](https://github.com/erskingardner/ren) - Personal AI infrastructure for Opencode
 
+## Development
+- [rmp](https://github.com/aljazceru/rmp) - multiplatform rust template (ios,android, windows, linux) for agentic app building
+
 ## Real world 
 #### 3D printing 
 - [ForgeCAD](https://github.com/KoStard/ForgeCAD) -  Multi-backend code-first parametric CAD in JavaScript/TypeScript with live params, constraints, assemblies, and exact STEP/BREP export. 
