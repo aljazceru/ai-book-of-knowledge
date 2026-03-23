@@ -6,6 +6,14 @@
 - [Shaka](https://github.com/jgmontoya/shaka/) - personal agent framework for Claude Code and Opencode, written in bun 
 - [ren](https://github.com/erskingardner/ren) - Personal AI infrastructure for Opencode
 
+#### Lobsters
+- [hermes](https://github.com/NousResearch/hermes-agent) - python based openclaw alternative
+- [openfang](https://github.com/RightNow-AI/openfang) - rust based small footprint agent operating system
+  - [my fork of openfang](https://github.com/aljazceru/openfang)
+
+## Development
+- [rmp](https://github.com/aljazceru/rmp) - multiplatform rust template (ios,android, windows, linux) for agentic app building
+
 ## Real world 
 #### 3D printing 
 - [ForgeCAD](https://github.com/KoStard/ForgeCAD) -  Multi-backend code-first parametric CAD in JavaScript/TypeScript with live params, constraints, assemblies, and exact STEP/BREP export. 
@@ -13,6 +21,10 @@
 ## Tools 
 #### Devops
 - [ProxmoxMCP-Plus](https://github.com/autonomica-xyz/ProxmoxMCP-Plus) - expanded proxmox mcp for AI control of your proxmox infrastructure
+
+### Can I run this model
+- [canirun.ai](https://canirun.ai/) - calculator for local models
+- [vram calculator](https://apxml.com/tools/vram-calculator) - calculator for local models
 
 ## Research 
 - [autoresearch](https://github.com/karpathy/autoresearch) -  AI agents running research on single-GPU nanochat training automatically 
