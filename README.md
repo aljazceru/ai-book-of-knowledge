@@ -16,3 +16,6 @@
 
 ## Research 
 - [autoresearch](https://github.com/karpathy/autoresearch) -  AI agents running research on single-GPU nanochat training automatically 
+
+#### Transcription
+- [meetscribe](https://github.com/pretyflaco/meetscribe) - transcribe zoom calls and other meetings based on audio capture
