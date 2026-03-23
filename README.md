@@ -1,6 +1,9 @@
 # AI book of knowledge
 
 ## Agents 
+#### Claude code / Opencode / Codex 
+- [get-shit-done](https://github.com/gsd-build/get-shit-done) - plugin for large project development with claude code 
+
 #### PAI / Personal AI Infrastructure
 - [PAI](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Claude code based agent framework 
 - [Shaka](https://github.com/jgmontoya/shaka/) - personal agent framework for Claude Code and Opencode, written in bun 
