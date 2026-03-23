@@ -8,7 +8,8 @@
 
 #### Lobsters
 - [hermes](https://github.com/NousResearch/hermes-agent) - python based openclaw alternative
-- [openfang](https://github.com/RightNow-AI/openfang) - rust based small footprint agent operating system 
+- [openfang](https://github.com/RightNow-AI/openfang) - rust based small footprint agent operating system
+  - [my fork of openfang](https://github.com/aljazceru/openfang)
 
 ## Development
 - [rmp](https://github.com/aljazceru/rmp) - multiplatform rust template (ios,android, windows, linux) for agentic app building
