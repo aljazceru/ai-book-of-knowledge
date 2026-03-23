@@ -6,6 +6,10 @@
 - [Shaka](https://github.com/jgmontoya/shaka/) - personal agent framework for Claude Code and Opencode, written in bun 
 - [ren](https://github.com/erskingardner/ren) - Personal AI infrastructure for Opencode
 
+#### Lobsters
+- [hermes](https://github.com/NousResearch/hermes-agent) - python based openclaw alternative
+- [openfang](https://github.com/RightNow-AI/openfang) - rust based small footprint agent operating system 
+
 ## Development
 - [rmp](https://github.com/aljazceru/rmp) - multiplatform rust template (ios,android, windows, linux) for agentic app building
 
