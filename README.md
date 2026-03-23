@@ -17,5 +17,9 @@
 #### Devops
 - [ProxmoxMCP-Plus](https://github.com/autonomica-xyz/ProxmoxMCP-Plus) - expanded proxmox mcp for AI control of your proxmox infrastructure
 
+### Can I run this model
+- [canirun.ai](https://canirun.ai/) - calculator for local models
+- [vram calculator](https://apxml.com/tools/vram-calculator) - calculator for local models
+
 ## Research 
 - [autoresearch](https://github.com/karpathy/autoresearch) -  AI agents running research on single-GPU nanochat training automatically 
