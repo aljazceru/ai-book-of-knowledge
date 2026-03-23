@@ -11,6 +11,13 @@
 - [openfang](https://github.com/RightNow-AI/openfang) - rust based small footprint agent operating system
   - [my fork of openfang](https://github.com/aljazceru/openfang)
 
+#### Skills
+- [upskill](https://github.com/huggingface/upskill) - Generate and evaluate agent skills for code agents like Claude Code, Open Code, OpenAI Codex 
+- [napking](https://github.com/blader/napkin/) - A Claude Code skill that gives the agent persistent memory of its mistakes via a per-repo markdown scratchpad.
+
+#### Infrastructure / Security
+- [openshell](https://github.com/NVIDIA/OpenShell/) - safe runtime for agents based on k3s running in docker
+
 ## Development
 - [rmp](https://github.com/aljazceru/rmp) - multiplatform rust template (ios,android, windows, linux) for agentic app building
 
