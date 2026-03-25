@@ -1,5 +1,3 @@
-# AI book of knowledge
-
 ## Agents 
 #### Claude code / Opencode / Codex 
 - [get-shit-done](https://github.com/gsd-build/get-shit-done) - plugin for large project development with claude code 
