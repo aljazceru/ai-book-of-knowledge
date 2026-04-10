@@ -19,6 +19,12 @@
 #### Infrastructure / Security
 - [openshell](https://github.com/NVIDIA/OpenShell/) - safe runtime for agents based on k3s running in docker
 
+## Local models
+#### Inference 
+- [lms](https://lmstudio.ai/docs/developer/core/headless) - lm studio headless
+- [megakernel-luce](https://github.com/Luce-Org/luce-megakernel) - optimizing cuda kernel for qwen3.5 to run faster locally (and less energy)
+
+
 ## Development
 - [rmp](https://github.com/aljazceru/rmp) - multiplatform rust template (ios,android, windows, linux) for agentic app building
 
