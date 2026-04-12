@@ -23,6 +23,8 @@
 #### Inference 
 - [lms](https://lmstudio.ai/docs/developer/core/headless) - lm studio headless
 - [megakernel-luce](https://github.com/Luce-Org/luce-megakernel) - optimizing cuda kernel for qwen3.5 to run faster locally (and less energy)
+- [obliteratus](https://github.com/elder-plinius/OBLITERATUS) - open-source toolkit for understanding and removing refusal behaviors from large language models
+- [predict-rlm](https://github.com/Trampoline-AI/predict-rlm) . production focused rlm 
 
 
 ## Development
