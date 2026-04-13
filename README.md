@@ -25,7 +25,7 @@
 - [megakernel-luce](https://github.com/Luce-Org/luce-megakernel) - optimizing cuda kernel for qwen3.5 to run faster locally (and less energy)
 - [obliteratus](https://github.com/elder-plinius/OBLITERATUS) - open-source toolkit for understanding and removing refusal behaviors from large language models
 - [predict-rlm](https://github.com/Trampoline-AI/predict-rlm) . production focused rlm 
-
+- [mcp-local-rag](https://github.com/shinpr/mcp-local-rag) - Local-first RAG server for developers. Semantic + keyword search for code and technical docs.
 
 ## Development
 - [rmp](https://github.com/aljazceru/rmp) - multiplatform rust template (ios,android, windows, linux) for agentic app building
