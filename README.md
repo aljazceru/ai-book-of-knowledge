@@ -15,7 +15,8 @@
 #### Skills
 - [upskill](https://github.com/huggingface/upskill) - Generate and evaluate agent skills for code agents like Claude Code, Open Code, OpenAI Codex 
 - [napking](https://github.com/blader/napkin/) - A Claude Code skill that gives the agent persistent memory of its mistakes via a per-repo markdown scratchpad.
-- [hyperframes](https://github.com/heygen-com/hyperframes) - video generation for agents (create videos from websites, product videos etc) 
+- [hyperframes](https://github.com/heygen-com/hyperframes) - video generation for agents (create videos from websites, product videos etc)
+- [remotion](https://github.com/remotion-dev/remotion) - video generation for agents 
 
 #### Infrastructure / Security
 - [openshell](https://github.com/NVIDIA/OpenShell/) - safe runtime for agents based on k3s running in docker
