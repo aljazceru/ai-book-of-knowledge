@@ -6,6 +6,7 @@
 - [PAI](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Claude code based agent framework 
 - [Shaka](https://github.com/jgmontoya/shaka/) - personal agent framework for Claude Code and Opencode, written in bun 
 - [ren](https://github.com/erskingardner/ren) - Personal AI infrastructure for Opencode
+- [ruflo](https://github.com/ruvnet/ruflo) - Agent harness orchestration framework 
 
 #### Lobsters
 - [hermes](https://github.com/NousResearch/hermes-agent) - python based openclaw alternative
@@ -28,7 +29,8 @@
 - [obliteratus](https://github.com/elder-plinius/OBLITERATUS) - open-source toolkit for understanding and removing refusal behaviors from large language models
 - [predict-rlm](https://github.com/Trampoline-AI/predict-rlm) . production focused rlm 
 - [mcp-local-rag](https://github.com/shinpr/mcp-local-rag) - Local-first RAG server for developers. Semantic + keyword search for code and technical docs.
-
+- [llama-cpp-turboquant](https://github.com/TheTom/llama-cpp-turboquant) - turboquant fork of llama cpp with huge performance improvements
+- 
 ## Development
 - [rmp](https://github.com/aljazceru/rmp) - multiplatform rust template (ios,android, windows, linux) for agentic app building
 
